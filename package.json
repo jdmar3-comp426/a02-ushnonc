@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jdmar3-comp426/a02-ushnonc#readme",
   "dependencies": {
     "browser-sync": "^2.27.7",
+    "bulma": "^0.9.3",
     "yarn": "^1.22.17"
   }
 }
